@@ -38,9 +38,9 @@ function ForSignup() {
                     </div>
                 </div>
                 <div className="interests-save">
-                    <a href={"/"}>
+                    <Link to={"/main"}>
                         <button>Save</button>
-                    </a>
+                    </Link>
                 </div>
             </div>
         </div>
